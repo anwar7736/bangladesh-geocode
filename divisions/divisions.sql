@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+﻿-- phpMyAdmin SQL Dump
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
 --
@@ -47,7 +47,8 @@ INSERT INTO `divisions` (`id`, `name`, `bn_name`, `url`) VALUES
 (5, 'Sylhet', 'সিলেট', 'www.sylhetdiv.gov.bd'),
 (6, 'Dhaka', 'ঢাকা', 'www.dhakadiv.gov.bd'),
 (7, 'Rangpur', 'রংপুর', 'www.rangpurdiv.gov.bd'),
-(8, 'Mymensingh', 'ময়মনসিংহ', 'www.mymensinghdiv.gov.bd');
+(8, 'Mymensingh', 'ময়মনসিংহ', 'www.mymensinghdiv.gov.bd'),
+(9, 'Comilla', 'কুমিল্লা', 'www.comilladiv.gov.bd');
 
 --
 -- Indexes for dumped tables
