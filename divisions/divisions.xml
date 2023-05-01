@@ -81,11 +81,5 @@
             <column name="bn_name">ময়মনসিংহ</column>
             <column name="url">www.mymensinghdiv.gov.bd</column>
         </table>        
-		<table name="divisions">
-            <column name="id">9</column>
-            <column name="name">Comilla</column>
-            <column name="bn_name">কুমিল্লা</column>
-            <column name="url">www.comilladiv.gov.bd</column>
-        </table>
     </database>
 </pma_xml_export>
